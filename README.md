@@ -1,12 +1,15 @@
-#Setup .env file:
+## Setup .env file:
+```bash
 MONGO_URI=your_mongo_uri
 PORT=5000
+```
 
-#Run this app locally:
+## Run this app locally:
 ```bash
-npm run build
+npm run build 
+```
 
-#Start the app:
+## Start the app:
 ```bash
 npm run start
 
